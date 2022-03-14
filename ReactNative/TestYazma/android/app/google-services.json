@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "214151894823",
+    "project_id": "chatapp-b2606",
+    "storage_bucket": "chatapp-b2606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214151894823:android:486d6f2bf47c4b8557bb02",
+        "android_client_info": {
+          "package_name": "com.patikachatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214151894823-1jqscocsopht2qk3n4q5cimg3mhjrbdg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patikachatapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "214151894823-rh7jirfpn6nrop4ucphjrabq4rbsum38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx8KuRNf72fxLCto81UbEP75U0fzAyHeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214151894823-rh7jirfpn6nrop4ucphjrabq4rbsum38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
